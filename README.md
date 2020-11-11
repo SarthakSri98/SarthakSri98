@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at my [**portfolio**](sarthaksri98.github.io/The-Portfolio)
+- 👨‍💻 All of my projects are available at my [**portfolio**](https://sarthaksri98.github.io/The-Portfolio)
 
 - 💬 Ask me about **Javascript, React, Angular, Data Structures and Algorithms**
 
