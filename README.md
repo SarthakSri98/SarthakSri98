@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How I built my first side project website?](https://sarthak-on-code.hashnode.dev/how-i-built-my-first-side-project-website)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
