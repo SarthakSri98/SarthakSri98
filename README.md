@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak Srivastava</h1>
 <h3 align="center">Frontend developer at Groww, India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksri98&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksri98" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthaksri98" alt="sarthaksri98" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sarthak8898" target="blank"><img src="https://img.shields.io/twitter/follow/sarthak8898?logo=twitter&style=for-the-badge" alt="sarthak8898" /></a> </p>
@@ -23,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sarthaksri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sarthaksri" height="30" width="40" /></a>
 <a href="https://twitter.com/sarthak8898" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sarthak8898" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sarthaksri98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sarthaksri98/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/sarthak.srivastav.77/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/sarthak.srivastav.77/" height="30" width="40" /></a>
